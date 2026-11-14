@@ -1,0 +1,7 @@
+.env*
+!.env.example
+contracts/lib/
+contracts/out/
+contracts/cache/
+contracts/broadcast/
+contracts/.solidity-auditor/
